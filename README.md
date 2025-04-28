@@ -1,3 +1,3 @@
-GitHub Challenge
+## GitHub Challenge
 
 README file
